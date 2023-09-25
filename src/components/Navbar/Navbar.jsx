@@ -1,18 +1,21 @@
 import { NavLink } from "react-router-dom";
 import './Navbar.css'
+import logoImage from './Logo/Logo.png'
+
+
 
 const Navbar = () => {
     const links = <>
     <li><NavLink 
- to="/">Home</NavLink></li>
-    <li><NavLink to="/Donation">Donation</NavLink></li>
+ to="/" className=" hover:text-red-500 hover:underline">Home</NavLink></li>
+    <li><NavLink to="/Donation" className=" hover:text-red-500 hover:underline">Donation</NavLink></li>
     
-    <li><NavLink to="/statistics">Statistics</NavLink></li>
+    <li><NavLink to="/statistics" className=" hover:text-red-500 hover:underline">Statistics</NavLink></li>
     
 </>
 
     return (
-        <div>
+        <div className="font-inter">
              <div className=" md:flex md:justify-evenly navbar bg-base-100">
             <div className="navbar-start">
                 <div className="dropdown">
@@ -23,7 +26,8 @@ const Navbar = () => {
                         {links}
                     </ul>
                 </div>
-                <a className="btn btn-ghost normal-case text-xl">Donation Campaign</a>
+                {/* <a className="btn btn-ghost normal-case text-xl">Donation Campaign</a> */}
+                <div><img className="w-[200px] h[200px]" src={logoImage} alt="" /></div>
             </div>
             <div className="navbar-center hidden lg:flex">
                 <ul className="menu menu-horizontal px-1">
