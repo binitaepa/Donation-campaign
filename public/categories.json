@@ -1,0 +1,173 @@
+[
+   
+    {
+      
+        "id": "campaign1",
+        "picture": "https://i.ibb.co/VHcsTm1/Health.png",
+        "title": "Healthcare Access for Underserved Communities",
+        "category": "Health",
+        "category_bg_color": "#0052FF",
+        "card_bg_color": "#0052ff26",
+        "text_button_bg_color": "#0052ff33",
+        "description": "Ensure access to healthcare services for underserved communities. Your support can save lives and promote well-being.",
+        "price": 20.00
+      
+    },
+   
+    {
+      
+        "id": "campaign2",
+        "picture": "https://i.ibb.co/wsCgrdf/Education.png",
+        "title": "Support Clean Water Initiative",
+        "category": "Education",
+        "category_bg_color": "#FF444A",
+        "card_bg_color": "#ff444a26",
+        "text_button_bg_color": "#ff444a33",
+        "description": "Join us in our mission to provide clean and safe drinking water to communities in need. Your donation will make a significant impact and help save lives.",
+        "price": 50.00
+      
+    },
+    {
+    
+        "id": "campaign3",
+        "picture": "https://i.ibb.co/jVsQVY7/Clothing.png",
+        "title": "Clothing Drive for Needy Families",
+        "category": "Clothing",
+        "category_bg_color": "#79C23F",
+        "card_bg_color": "#79c24526",
+        "text_button_bg_color": "#79c24533",
+        "description": "Provide warm clothing to families in need during the cold winter months. Your donation can make a difference.",
+        "price": 35.00
+      
+    },
+    {
+      
+        "id": "campaign4",
+        "picture": "https://i.ibb.co/tZSYnkG/Food.png",
+        "title": "Nutrition Program for Vulnerable Seniors",
+        "category": "Food",
+        "category_bg_color": "#F87147",
+        "card_bg_color": "#f8714780",
+        "text_button_bg_color": "#f8714733",
+        "description": "Support a nutrition program that ensures seniors receive healthy meals. Help improve the quality of life for our elderly population.",
+        "price": 10.00
+      
+    },
+    {
+      
+        "id": "campaign5",
+        "picture": "https://i.ibb.co/tZSYnkG/Food.png",
+        "title": "Support School Lunch Programs",
+        "category": "Food",
+        "category_bg_color": "#F87147",
+        "card_bg_color": "#f8714780",
+        "text_button_bg_color": "#f8714733",
+        "description": "Contribute to school lunch programs that ensure children receive nutritious meals while at school. Fuel their learning.",
+        "price": 75.00
+      
+    },
+
+    {
+      
+        "id": "campaign6",
+        "picture": "https://i.ibb.co/jVsQVY7/Clothing.png",
+        "title": "Clothing Drive for Homeless Individuals",
+        "category": "Clothing",
+        "category_bg_color": "#79C23F",
+        "card_bg_color": "#79c24526",
+        "text_button_bg_color": "#79c24533",
+        "description": "Provide warm clothing to homeless individuals during the winter season. Your donation can offer warmth and dignity.",
+        "price": 15.00
+      
+    },
+    
+    {
+     
+        "id": "campaign7",
+        "picture": "https://i.ibb.co/wsCgrdf/Education.png",
+        "title": "Educational Scholarships for Underprivileged Students",
+        "category": "Education",
+        "category_bg_color": "#FF444A",
+        "card_bg_color": "#ff444a26",
+        "text_button_bg_color": "#ff444a33",
+        "description": "Support the dreams of underprivileged students by funding their education. Education is a powerful tool for a brighter future.",
+        "price": 100.00
+     
+    },
+    
+    
+    
+    
+   
+    {
+      
+        "id": "campaign8",
+        "picture": "https://i.ibb.co/VHcsTm1/Health.png",
+        "title": "Medical Relief for Disaster Victims",
+        "category": "Health",
+        "category_bg_color": "#0052FF",
+        "card_bg_color": "#0052ff26",
+        "text_button_bg_color": "#0052ff33",
+        "description": "Provide essential medical aid to disaster-stricken areas. Your donation can save lives during times of crisis.",
+        "price": 50.00
+      
+    },
+    {
+      
+        "id": "campaign9",
+        "picture": "https://i.ibb.co/VHcsTm1/Health.png",
+        "title": "Emergency Health Relief",
+        "category": "Health",
+        "category_bg_color": "#0052FF",
+        "card_bg_color": "#0052ff26",
+        "text_button_bg_color": "#0052ff33",
+        "description": "Provide urgent health relief to those in need during emergencies. Your donation can save lives and offer hope.",
+        "price": 50.00
+      
+    },
+    {
+      
+        "id": "campaign10",
+        "picture": "https://i.ibb.co/wsCgrdf/Education.png",
+        "title": "Scholarships for Girls' Education",
+        "category": "Education",
+        "category_bg_color": "#FF444A",
+        "card_bg_color": "#ff444a26",
+        "text_button_bg_color": "#ff444a33",
+        "description": "Empower girls with access to education. Your donation can change the trajectory of their lives and their communities.",
+        "price": 30.00
+      
+    },
+    
+    
+
+    {
+      
+        "id": "campaign11",
+        "picture": "https://i.ibb.co/jVsQVY7/Clothing.png",
+        "title": "Clothing Drive for Homeless Individuals",
+        "category": "Clothing",
+        "category_bg_color": "#79C23F",
+        "card_bg_color": "#79c24526",
+        "text_button_bg_color": "#79c24533",
+        "description": "Provide warm clothing to homeless individuals during the winter season. Your donation can offer warmth and dignity.",
+        "price": 15.00
+      
+    },
+   
+    {
+      
+        "id": "campaign12",
+        "picture": "https://i.ibb.co/tZSYnkG/Food.png",
+        "title": "Food Bank for Families in Need",
+        "category": "Food",
+        "category_bg_color": "#F87147",
+        "card_bg_color": "#f8714780",
+        "text_button_bg_color": "#f8714733",
+        "description": "Support a local food bank that provides meals to families facing food insecurity. Your donation can nourish families.",
+        "price": 40.00
+      
+    }
+    
+  ]
+  

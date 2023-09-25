@@ -7,7 +7,7 @@ import logoImage from './Logo/Logo.png'
 const Navbar = () => {
     const links = <>
     <li><NavLink 
- to="/" className=" hover:text-red-500 hover:underline">Home</NavLink></li>
+ to="/" className=" hover:text-red-500 bg-transparent hover:underline">Home</NavLink></li>
     <li><NavLink to="/Donation" className=" hover:text-red-500 hover:underline">Donation</NavLink></li>
     
     <li><NavLink to="/statistics" className=" hover:text-red-500 hover:underline">Statistics</NavLink></li>

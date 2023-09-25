@@ -1,9 +1,10 @@
 
 import bgImg from './Banner/Rectangle 4287.png'
+import './Banner.css'
 const Banner = () => {
    
     return (
-        <div className="">
+        <div className="font-inter">
              
         
     <div className="max-w-full  ">

@@ -1,14 +1,15 @@
 import { Outlet } from "react-router-dom";
 import Header from "./Header/Header";
-import Banner from "../Banner/Banner";
+
+import './Root.css'
 
 
 const Root = () => {
     return (
-        <div>
+        <div className="font-inter font-mono">
             <Header></Header>
             <Outlet></Outlet>
-            <Banner></Banner>
+            
 
         </div>
     );
