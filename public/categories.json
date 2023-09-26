@@ -2,7 +2,7 @@
    
     {
       
-        "id": "campaign1",
+        "id": "1",
         "picture": "https://i.ibb.co/VHcsTm1/Health.png",
         "title": "Healthcare Access for Underserved Communities",
         "category": "Health",
@@ -16,7 +16,7 @@
    
     {
       
-        "id": "campaign2",
+        "id": "2",
         "picture": "https://i.ibb.co/wsCgrdf/Education.png",
         "title": "Support Clean Water Initiative",
         "category": "Education",
@@ -29,7 +29,7 @@
     },
     {
     
-        "id": "campaign3",
+        "id": "3",
         "picture": "https://i.ibb.co/jVsQVY7/Clothing.png",
         "title": "Clothing Drive for Needy Families",
         "category": "Clothing",
@@ -42,7 +42,7 @@
     },
     {
       
-        "id": "campaign4",
+        "id": "4",
         "picture": "https://i.ibb.co/tZSYnkG/Food.png",
         "title": "Nutrition Program for Vulnerable Seniors",
         "category": "Food",
@@ -55,7 +55,7 @@
     },
     {
       
-        "id": "campaign5",
+        "id": "5",
         "picture": "https://i.ibb.co/tZSYnkG/Food.png",
         "title": "Support School Lunch Programs",
         "category": "Food",
@@ -69,7 +69,7 @@
 
     {
       
-        "id": "campaign6",
+        "id": "6",
         "picture": "https://i.ibb.co/jVsQVY7/Clothing.png",
         "title": "Clothing Drive for Homeless Individuals",
         "category": "Clothing",
@@ -83,7 +83,7 @@
     
     {
      
-        "id": "campaign7",
+        "id": "7",
         "picture": "https://i.ibb.co/wsCgrdf/Education.png",
         "title": "Educational Scholarships for Underprivileged Students",
         "category": "Education",
@@ -101,7 +101,7 @@
    
     {
       
-        "id": "campaign8",
+        "id": "8",
         "picture": "https://i.ibb.co/VHcsTm1/Health.png",
         "title": "Medical Relief for Disaster Victims",
         "category": "Health",
@@ -114,7 +114,7 @@
     },
     {
       
-        "id": "campaign9",
+        "id": "9",
         "picture": "https://i.ibb.co/VHcsTm1/Health.png",
         "title": "Emergency Health Relief",
         "category": "Health",
@@ -127,7 +127,7 @@
     },
     {
       
-        "id": "campaign10",
+        "id": "10",
         "picture": "https://i.ibb.co/wsCgrdf/Education.png",
         "title": "Scholarships for Girls' Education",
         "category": "Education",
@@ -143,7 +143,7 @@
 
     {
       
-        "id": "campaign11",
+        "id": "11",
         "picture": "https://i.ibb.co/jVsQVY7/Clothing.png",
         "title": "Clothing Drive for Homeless Individuals",
         "category": "Clothing",
@@ -157,7 +157,7 @@
    
     {
       
-        "id": "campaign12",
+        "id": "12",
         "picture": "https://i.ibb.co/tZSYnkG/Food.png",
         "title": "Food Bank for Families in Need",
         "category": "Food",

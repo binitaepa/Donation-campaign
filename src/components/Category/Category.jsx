@@ -1,8 +1,11 @@
 
+import { Link } from 'react-router-dom';
 import './Category.css'
 const Category = ({categoryFull}) => {
-    const {picture,title,category,card_bg_color,category_bg_color,text_button_bg_color}=categoryFull;
+    const {id,picture,title,category,card_bg_color,category_bg_color,text_button_bg_color}=categoryFull;
     return (
+           
+            <Link to={`/categoryFull/${id}`}>
             <div className="card card-compact  shadow-xl w-[312px] h-[283px]" style={{backgroundColor: card_bg_color}}>
         <figure><img className="w-[312px] h-[194px] rounded" src={picture} alt="" /></figure>
         <div className="ml-5 ">
@@ -16,7 +19,8 @@ const Category = ({categoryFull}) => {
                 </Link>
             </div> */}
         </div>
-    </div>
+    </div></Link>
+           
     );
 };
 
