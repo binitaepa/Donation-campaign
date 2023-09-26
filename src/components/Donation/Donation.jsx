@@ -40,7 +40,7 @@ const Donation = () => {
                           <img className="h-[200px]" src={categoryFull.picture} alt="" />
                         </div>
                         <div className="flex mt-5 flex-col justify-start mb-2">
-                            <p style={{color:categoryFull.category_bg_color}}>{categoryFull.category}</p>
+                            <p className="w-1/3" style={{backgroundColor:categoryFull.text_button_bg_color,  color:categoryFull.category_bg_color}}>{categoryFull.category}</p>
                             <h2 >{categoryFull.title}</h2>
                         <p style={{color:categoryFull.category_bg_color}} >
                           ${categoryFull.price}
