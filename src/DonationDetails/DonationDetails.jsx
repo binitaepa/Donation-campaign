@@ -29,7 +29,7 @@ const DonationDetails = () => {
 
            
             
-           <div className="flex mb-10 -p-10 mt-10 flex-col">
+           <div className="flex mb-10 ml-5 -p-10 mt-10 flex-col">
            <h2 className="text-4xl mb-10 font-semibold">{categoryFull.title}</h2>
             <p className="text-base">{categoryFull.description}</p>
            </div>

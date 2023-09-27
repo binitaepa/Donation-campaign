@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { useLoaderData } from "react-router-dom";
+import { Link, useLoaderData } from "react-router-dom";
 import { getStoredCardDetails } from "../../Utility/LocalStorage";
 
 
@@ -45,13 +45,13 @@ const Donation = () => {
                         <p style={{color:categoryFull.category_bg_color}} >
                           ${categoryFull.price}
                         </p>
-                        
+                        <Link to={`/categoryFull/${categoryFull.id}`}>
                         <button
                           
                           className=" w-1/2 p-2 text-white text-center font-normal " style={{backgroundColor:categoryFull.category_bg_color}}
                         >
                           view Details
-                        </button></div>
+                        </button></Link></div>
                       </div>
                     ) )
                 }

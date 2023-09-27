@@ -12,8 +12,7 @@ const Statistics = () => {
     const localStorageLength = localLength.length; 
 const totalLength = saveData.length;
 
-const localStoragePercentage = ((localStorageLength / totalLength) * 100).toFixed(2);
-const remainingPercentage = ((100 - localStoragePercentage) % 100).toFixed(2);
+
 
 const data = [
     { name: "Total value", value: totalLength },
@@ -53,8 +52,9 @@ const data = [
 
   return (
    <div>
-     <div className="flex items-center justify-center ">
-        <PieChart width={600} height={600}>
+     <div className="flex flex-col items-center justify-center ">
+        <div>
+        <PieChart width={400} height={400}>
       <Pie
         data={data}
         cx={200}
@@ -72,9 +72,12 @@ const data = [
       </Pie>
       
     </PieChart>
-    
-    <p className="mr-5">Local storage <span className="bg-green-700 w-1/2 text-transparent"> color </span>   <br />
-         Total Storage <span className="bg-red-600 w-1/2 text-transparent"> color </span></p>
+        </div>
+    <div className="">
+      
+    <p className="">Your Donation <span className="bg-green-700 w-1/2 text-transparent">color</span>   <br />
+         Total Donation <span className="bg-red-600 w-1/2 text-transparent">color</span></p>
+    </div>
     
     </div>
     
